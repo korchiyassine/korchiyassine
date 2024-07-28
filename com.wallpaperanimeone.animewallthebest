@@ -48,7 +48,7 @@
     "ShowTrial":true,
     "LifeTimeSKu":"com.wallpaperanimeone.animewallthebest.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
+    "MonthlySKu":"com.wallpaperanimeone.animewallthebest.monthly",
     "MonthlyPrice":"$3.99 / Month",
     "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
     "AnnualPrice":"$29.99 / Year"
