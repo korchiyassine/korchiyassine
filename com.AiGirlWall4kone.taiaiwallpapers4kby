@@ -1,4 +1,3 @@
-
 {
   "AdsManager": {
     "ShowAds":false,
@@ -47,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.AiGirlWallpaperhd.byaiwallpapersby.Lifetime",
+    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.AiGirlWallpaperhd.byaiwallpapersby.monthly",
+    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.AiGirlWallpaperhd.byaiwallpapersby.year",
+    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.AiGirlWallpaperhd.byaiwallpapersby.year",
+    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.AiGirlWallpaperhd.byaiwallpapersby.Lifetime",
+    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
