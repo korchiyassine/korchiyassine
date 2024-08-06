@@ -37,7 +37,7 @@
     "ShowUpdate":false,
     "UpdateLink":"",
     "UpdateVersion":6,
-    "ShowMockupData":true,
+    "ShowMockupData":false,
     "UpdateFromAmazon":true,
     "ShowRewardAndSubscribe":true,
 "ShowCategories":false
@@ -46,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.PurpleWallpapersfor4k.ForGirlswallpaershd.Lifetime",
+    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.PurpleWallpapersfor4k.ForGirlswallpaershd.monthly",
+    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.PurpleWallpapersfor4k.ForGirlswallpaershd.year",
+    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.PurpleWallpapersfor4k.ForGirlswallpaershd.year",
+    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.PurpleWallpapersfor4k.ForGirlswallpaershd.Lifetime",
+    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
