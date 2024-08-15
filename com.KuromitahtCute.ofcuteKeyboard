@@ -40,7 +40,7 @@
     "ShowMockupData":true,
     "UpdateFromAmazon":true,
     "ShowRewardAndSubscribe":true,
-"ShowCategories":false
+"ShowCategories":true
   },
   "Paywall1":{
     "ShowHardPaywall":true,
