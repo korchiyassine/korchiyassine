@@ -46,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.wallpaperanimeone.animewallthebest.Lifetime",
+    "LifeTimeSKu":"com.wallpaperamericain.americainofwallpaper.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.wallpaperanimeone.animewallthebest.monthly",
+    "MonthlySKu":"com.wallpaperamericain.americainofwallpaper.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.wallpaperanimeone.animewallthebest.year",
+    "AnnualSKu":"com.wallpaperamericain.americainofwallpaper.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.wallpaperanimeone.animewallthebest.year",
+    "AnnualSKu":"com.wallpaperamericain.americainofwallpaper.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.wallpaperanimeone.animewallthebest.Lifetime",
+    "LifeTimeSKu":"com.wallpaperamericain.americainofwallpaper.Lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
